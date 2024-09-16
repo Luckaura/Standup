@@ -30,7 +30,7 @@ Neregistruotas naudotojas:
 Registruotas naudotojas:
 -	Peržiūrėti informaciją apie komikus
 -	Peržiūrėti atsiliepimus apie renginius
--	Rašyti komentarą apie renginį
+-	Rašyti atsiliepimą apie renginį
 -	Pašalinti savo atsiliepimą apie renginį
 -	Redaguoti savo atsiliepimą apie renginį
 -	Pridėti komiką į mėgstamų komikų sąrašą
