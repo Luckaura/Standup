@@ -13,8 +13,8 @@ Svetainės administratorius:
 -	Redaguoti informaciją apie komikus
 -	Peržiūrėti registruotų naudotojų sąrašą
 -	Šalinti registruotus naudotojus
--	Peržiūrėti komentarus apie renginius
--	Pašalinti komentarą apie renginį
+-	Peržiūrėti atsiliepimus apie renginius
+-	Pašalinti atsiliepimą apie renginį
 -	Pridėti renginį
 -	Pašalinti renginį
 -	Redaguoti informaciją apie renginį
