@@ -48,4 +48,4 @@ Taikomosios srities objektai tarpusavyje susieti prasminiu ir hierarchiniu ryši
 
 Kliento pusė (angl. Front-End) — Vue.js, nes yra lengvai pritaikomas, paprastesnis ir draugiškesnis naujiems naudotojams. Taip pat su juo galima kurti dinamines vartotojo sąsajas, leidžiančias greitai atnaujinti turinį be poreikio perkrauti puslapį, kas yra aktualu, kai yra rašomi komentarai.<br/>
 Serverio pusė (angl. Back-End) — .NET Core, nes lengvai integruojasi su įvairiomis duomenų bazių sistemomis ir yra žinoma technologija.<br/>
-Duomenų bazė — MySQL, nes yra viena populiariausių ir plačiausiai naudojamų atvirojo kodo reliacinių duomenų bazių valdymo sistemų.<br/>
+Duomenų bazė — PostgreSQL, nes yra viena populiariausių ir plačiausiai naudojamų atvirojo kodo reliacinių duomenų bazių valdymo sistemų.<br/>
